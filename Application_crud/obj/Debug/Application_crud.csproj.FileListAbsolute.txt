@@ -1,0 +1,593 @@
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Application_crud.dll.config
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Application_crud.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Application_crud.pdb
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\csc.exe
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\csc.rsp
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\csi.exe
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\csi.rsp
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Console.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Net.Http.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.ValueTuple.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\vbc.exe
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\EntityFramework.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Razor.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\WebGrease.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\EntityFramework.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Optimization.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.Razor.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Antlr3.Runtime.pdb
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\obj\Debug\Application_crud.dll
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\obj\Debug\Application_crud.pdb
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.emp_app.resources
+C:\Users\LENOVO\source\repos\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.GenerateResource.cache
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Application_crud.dll.config
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Application_crud.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Application_crud.pdb
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.exe
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.exe.config
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.rsp
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.exe
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.exe.config
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.rsp
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.AppContext.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Collections.Immutable.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Console.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Globalization.Calendars.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Net.Http.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Net.Sockets.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Reflection.Metadata.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.ValueTuple.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.exe
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.exe.config
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.rsp
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe.config
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Antlr3.Runtime.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\EntityFramework.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\EntityFramework.SqlServer.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Web.Infrastructure.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Newtonsoft.Json.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Helpers.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Mvc.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Optimization.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Razor.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\WebGrease.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\EntityFramework.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\EntityFramework.SqlServer.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Helpers.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Mvc.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Optimization.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.Razor.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Newtonsoft.Json.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Antlr3.Runtime.pdb
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.AssemblyReference.cache
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.emp_app.resources
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.GenerateResource.cache
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CoreCompileInputs.cache
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CopyComplete
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.pdb
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.HashCode.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Options.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Primitives.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Identity.Client.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Logging.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Buffers.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Collections.Immutable.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.ComponentModel.Annotations.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Memory.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Numerics.Vectors.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Threading.Tasks.Extensions.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.HashCode.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.pdb
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Options.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Primitives.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.Identity.Client.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Logging.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Buffers.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Collections.Immutable.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Memory.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Numerics.Vectors.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\System.Threading.Tasks.Extensions.xml
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Application_crud\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Application_crud.dll.config
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Application_crud.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Application_crud.pdb
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Memory.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Options.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Identity.Client.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Collections.Immutable.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Memory.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.emp_app.resources
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CopyComplete
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.dll
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.pdb
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.emp_app1.resources
+C:\Users\Admin\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.crud.resources
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Application_crud.dll.config
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Application_crud.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Application_crud.pdb
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.exe
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.exe.config
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csc.rsp
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.exe
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.exe.config
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\csi.rsp
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.AppContext.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Console.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Net.Http.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.exe
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.exe.config
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\vbc.rsp
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Antlr3.Runtime.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.SqlServer.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Options.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Identity.Client.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Newtonsoft.Json.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Buffers.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Collections.Immutable.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.ComponentModel.Annotations.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Memory.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Numerics.Vectors.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Helpers.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Mvc.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Optimization.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Razor.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\WebGrease.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\EntityFramework.SqlServer.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Options.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.Identity.Client.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Buffers.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Collections.Immutable.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Memory.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Numerics.Vectors.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Helpers.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Mvc.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Optimization.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.Razor.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Newtonsoft.Json.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Antlr3.Runtime.pdb
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.AssemblyReference.cache
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.emp_app.resources
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.emp_app1.resources
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.Migrations.crud.resources
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.GenerateResource.cache
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CoreCompileInputs.cache
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.csproj.CopyComplete
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.dll
+C:\Users\Abhijeet\Downloads\Application_crud (2)\Application_crud\Application_crud\Application_crud\obj\Debug\Application_crud.pdb
